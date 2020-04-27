@@ -1,2 +1,0 @@
-# maisaquiSys
-Projeto ficha IFTO
